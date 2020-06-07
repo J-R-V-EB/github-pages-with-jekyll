@@ -1,13 +1,13 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+theme: minima
+title: AP Comp Sci Website
+author: Jonathan Roy Varghese
+email: jroyvarghese@ebnet.org
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This is a website that I made using the version control system of GitHub. This website follows two of the free courses offered
+  on GitHub - the Introductory Course and the GitHub Pages course. This was fun to make. 
 
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
-
+snapchat_username: thetyrantgamer (I dont have any other social media)
+github_username:  J-R-V-EB # DO NOT include the @ character, or else the build will fail!
+steam_username: Phantom
 show_excerpts: true # set to false to remove excerpts on the homepage
