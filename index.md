@@ -1,3 +1,3 @@
-# Welcome to my blog
+# POST AP COMP SCI EXAM WEBSITE
 
-I'm glad you are here. I plan to talk about ...
+This is the website I made using GitHub for the final project of the AP Computer Science class of 2019-2020. 
